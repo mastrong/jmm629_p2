@@ -1,0 +1,30 @@
+In this project, each person will develop an exploratory tool, that is, an interactive web page that allows users to
+investigate and understand data visually, using web technologies like <div>, <svg>, or <canvas> elements for their visual
+representations.
+
+Students can either build upon the chart created for Project 1 or start something new. In this case, you will have the
+freedom to choose the dataset and visualization approach you wish to explore. The tool should enable user interaction
+with the data visualization, whether through filters, selections, or clicks that display contextual information.
+Consider elements like:
+
+<select></select>
+<input type="checkbox">
+<input type="number">
+<input type="text">
+<button>
+
+or any other means to interact with your chart (e.g., "click" event, "mouseover," etc.).
+
+The evaluation of this project will be based on various criteria:
+
+Technical Functionality: Are all interactive features effectively implemented?
+Visual Design: Does the tool's interface present a well-designed visual aesthetic coherent with your topic and data?
+Innovation and Creativity: Does the proposed tool offer an original and creative approach to exploring the data? (this
+criterion is considered a "bonus").
+
+Each submission should include:
+
+A public link to the exploratory tool (it can be hosted on platforms like CodeSandbox or others).
+A paragraph describing the student’s experience in developing the tool, including challenges faced and learnings.
+A video showing someone interacting with your tool (such as a screen recording, with or without narration).
+Any other materials like drafts, prototypes, etc., that can help communicate the idea and the development process.
